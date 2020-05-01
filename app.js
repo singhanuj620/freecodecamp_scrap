@@ -2,7 +2,6 @@ const 	express 	=	require('express'),
 		ejs			=	require('ejs'),
 		request 	=	require('request-promise'),
 		cheerio		=	require('cheerio'),
-		flatted 	=	require('flatted'),
 		app			=	express();
 
 app.set('view engine' , 'ejs');
