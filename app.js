@@ -40,8 +40,8 @@ app.get('/',async (req,res) => {
 	    a = {...author}
 	});
 	let len = Object.keys(t).length
-	// res.render('homepage',{title:t,len:len,link:l,author:a});
-	res.send('Anuj');
+	res.render('homepage',{title:t,len:len,link:l,author:a});
+	// res.send('Anuj');
 });
 
 app.get("/*",(req,res) => {
