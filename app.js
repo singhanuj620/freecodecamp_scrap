@@ -26,7 +26,7 @@ app.get('/',async (req,res) => {
 	    for(let i=0;i<titles.length;i++) {
 	    	let temp = titles[i].children[0].data.trim();
 	    	title[i] = temp;
-	    	let flag = 'https://www.freecodecamp.org'+titles[0].attribs.href.trim();
+	    	let flag = 'https://www.freecodecamp.org'+titles[i].attribs.href.trim();
 	    	link[i] = flag
 	    }
 	    console.log();
