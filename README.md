@@ -1,7 +1,7 @@
 # freecodecamp_scrap
 A web scrapper that scraps the news section of freecodecamp [website](https://www.freecodecamp.org/news/)
 
-**Live Preview** [Click Here](https://scrapcodecamp.herokuapp.com/)
+## Live Preview [Click Here](https://scrapcodecamp.herokuapp.com/)
 
 **This is only for education purpose. Don't misuse it**
 
@@ -21,13 +21,13 @@ A web scrapper that scraps the news section of freecodecamp [website](https://ww
 
 ## Technologies Used
 
-1 : Expressjs
+1. Expressjs
 
-2 : Cherrio
+2. Cherrio
 
-3 : Nodemon
+3. Nodemon
 
-4 : Ejs
+4. Ejs
 
 Was build using nodejs and cheerio .
 
@@ -36,6 +36,6 @@ Was build using nodejs and cheerio .
 Email : singhanuj620@gmail.com
 
 
-Portfolio : [Click Here](https://singhanuj620.github.io/portfolio)
+Portfolio : [Click Here](https://anujportfolio.herokuapp.com)
 
 Linkedin : [Click Here](https://www.linkedin.com/in/anuj-singh-007/)
